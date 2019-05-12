@@ -1,0 +1,12 @@
+welcome to java and welcome mohammed 
+Sed vitae ipsum fringilla, rhoncus purus et, feugiat lectus. 
+Mauris eget tellus justo. 
+Morbi tincidunt sem at justo laoreet, ut viverra ipsum interdum. 
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+Nulla varius nisl mattis sem bibendum, in consectetur magna condimentum. 
+Proin egestas arcu eu tortor sodales, et aliquam mauris lobortis.
+
+Donec non quam eget magna ullamcorper pretium ac vitae dolor. 
+Phasellus varius lectus sit amet tristique lacinia. 
+Ut rutrum efficitur risus, sit amet finibus ex porta vehicula. 
+Nunc turpis.
